@@ -1,2 +1,2 @@
-# Projetos_em_C
-Alguns dos meus primeiros algoritmos desenvolvidos em linguagem C.
+# Exercícios_em_C
+Alguns exercícios resolvidos em linguagem C.
